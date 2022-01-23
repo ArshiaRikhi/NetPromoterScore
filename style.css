@@ -1,0 +1,188 @@
+
+
+
+#container-2{
+position: absolute;
+width: 1450px;
+height: 476px;
+left: 0px;
+top: 100px;
+
+background: rgba(131, 100, 142, 0.85);
+}
+
+#digimarket1{
+  position: absolute;
+  left: -1.19%;
+  right: 100%;
+  top: 10.37%;
+  bottom: 37.98%;
+  image-resolution: from-image;
+
+}
+
+#NPSicon{
+  position: absolute;
+left: 0.86%;
+right: 93.72%;
+top: 0%;
+bottom: 91.45%;
+height: 60px;
+width: 60px;
+}
+
+#marketing-micro{
+  position: absolute;
+  left: 7.47%;
+  right: 73.35%;
+  top: 0%;
+  bottom: 105.87%;
+
+  font-family: 'Sacramento', cursive;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 44px;
+
+  color: #000000;
+}
+
+#home-market{
+position: absolute;
+width: 902px;
+height: 151px;
+left: 286px;
+top: 154px;
+
+font-family: 'Rufina', serif;
+font-style: normal;
+font-weight: normal;
+font-size: 86px;
+line-height: 119px;
+text-align: center;
+
+color: #FFFFFF;
+}
+#market-explain{
+  position: relative;
+width: 1054px;
+height: 45px;
+left: 190px;
+top: 417px;
+
+font-family: 'Sarabun', sans-serif;
+font-style: italic;
+font-weight: lighter;
+font-size: 30px;
+line-height: 39px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+#to-net-score {
+  position: absolute;
+  background-color: #ECC9F8;
+  width: 290px;
+  height: 42px;
+  left: 601px;
+  top: 537px;
+  overflow: scroll;
+  border-radius: 6px;
+  font-family: 'Rufina', serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 39px;
+  text-align: center;
+
+color: #000000;
+}
+
+#to-net-score:hover {
+  background-color: rgb(153, 50, 204);
+  color: white;
+}
+
+#winps-container{
+  position: absolute;
+  width: 400px;
+  height: 66px;
+  left: 50px;
+  top: 637px;
+
+  background: #ECC9F8;
+  border-radius: 15px;
+  position: absolute;
+
+
+  font-family: 'Sarabun', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 65px;
+  text-align: center;
+
+  color: #000000;
+}
+
+
+#winps-answer{
+  position: absolute;
+left: 0%;
+right: 63.82%;
+top: 106.4%;
+bottom: 5.6%;
+
+font-family: 'Sarabun', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 39px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+}
+
+#how-it-works{
+  position: absolute;
+  width: 400px;
+  height: 66px;
+  left: 977px;
+  top: 637px;
+
+  background: #ECC9F8;
+  border-radius: 15px;
+
+  font-family: 'Sarabun', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+
+  line-height: 65px;
+  text-align: center;
+
+  color: #000000;
+}
+
+
+#hiw-answer{
+  position: absolute;
+  width: 468px;
+  height: 200px;
+  left: 65.6%;
+  top: 98.4%;
+  bottom: 5.6%;
+
+
+  font-family: 'Sarabun', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 39px;
+  text-align: center;
+
+  color: #000000;
+}

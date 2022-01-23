@@ -1,0 +1,101 @@
+#NPSicon{
+  position: absolute;
+left: 0.86%;
+right: 93.72%;
+top: 0%;
+bottom: 91.45%;
+height: 60px;
+width: 60px;
+}
+
+#marketing-micro{
+  position: absolute;
+  left: 7.47%;
+  right: 73.35%;
+  top: 3%;
+  bottom: 105.87%;
+
+  font-family: 'Sacramento', cursive;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 44px;
+
+  color: #000000;
+}
+
+#digimarket3{
+  position: absolute;
+left: -0.2%;
+right: 0%;
+top: 10.9%;
+bottom: 70%;
+width: 1512px;
+height:735px;
+}
+
+#purple{
+  position: absolute;
+left: 0%;
+right: 0%;
+top: 10.9%;
+bottom: .07%;
+
+background: rgba(131, 100, 142, 0.85);
+}
+
+#data-submitted{
+  position: absolute;
+left: 22.55%;
+right: 20.5%;
+top: 48.68%;
+bottom: 35.95%;
+
+font-family: Rufina;
+font-style: normal;
+font-weight: normal;
+font-size: 96px;
+line-height: 119px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+#back-to-home{
+  position: absolute;
+  position: absolute;
+  left: 41.32%;
+  right: 26.26%;
+  top: 73.85%;
+  bottom: 19.43%;
+  background: #ECC9F8;
+border-radius: 30px;
+
+font-family: 'Sarabun', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 39px;
+text-align: center;
+
+color: #000000;
+}
+
+#show-results{
+  position: absolute;
+  left: 37.92%;
+  right: 26.26%;
+top: 82.81%;
+bottom: 10.47%;
+
+background: #ECC9F8;
+border-radius: 30px;
+font-family: 'Sarabun', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 39px;
+text-align: center;
+
+color: #000000;
+}
